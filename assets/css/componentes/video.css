@@ -30,7 +30,7 @@
   border-radius: 50%;
 
   background-color: var(--branco);
-  background-image: url(../img/icones/play.svg);
+  background-image: url(../../img/icones/play.svg);
   background-repeat: no-repeat;
   background-size: 1.75rem;
   background-position: center left 55%;
